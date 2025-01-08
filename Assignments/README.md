@@ -1,0 +1,1 @@
+This folder contains the list of Assignments done for the course CSCI585 - Database Systems.
